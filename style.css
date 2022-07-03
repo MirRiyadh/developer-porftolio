@@ -70,3 +70,15 @@ p {
   border-left: 3px solid #ff6347;
   border-radius: 10px;
 }
+
+#full {
+  border-left: 5px solid #ff6347;
+}
+
+#baby {
+  border-left: 5px solid blue;
+}
+
+footer {
+  text-align: center;
+}
